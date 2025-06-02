@@ -35,7 +35,7 @@ Markdown
 
 ## Display Control for GhostBSD and FreeBSD
 
-A simple GTK application for controlling screen brightness and gamma on the GhostBSD desktop.
+A simple GTK application for controlling screen brightness and gamma.
 
 ![Screenshot of Display Control](screenshot.png)
 
