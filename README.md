@@ -33,7 +33,7 @@ sudo pkg install xrandr gtk4
 Of course. Here is the content for the README.md file, formatted in GitHub Flavored Markdown. You can copy and paste the text below directly into a README.md file in your repository.
 Markdown
 
-# Display Control for GhostBSD
+## Display Control for GhostBSD and FreeBSD
 
 A simple GTK application for controlling screen brightness and gamma on the GhostBSD desktop.
 
