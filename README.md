@@ -99,7 +99,7 @@ display-control
 
 To launch it without tying up your terminal, run it in the background:
 ```
-display-control
+display-control &
 ```
 
 ## License
