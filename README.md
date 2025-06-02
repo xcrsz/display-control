@@ -2,8 +2,6 @@
 
 A simple GTK application for controlling screen brightness and gamma on the GhostBSD or FreeBSD desktop.
 
-![Screenshot of Display Control](screenshot.png)
-
 ## Features
 
 - Adjust screen brightness.
@@ -39,8 +37,8 @@ Markdown
 
 A simple GTK application for controlling screen brightness and gamma on the GhostBSD desktop.
 
-![Screenshot of Display Control](image_74fff7.png)
-*(Note: You may want to rename the screenshot file to `screenshot.png` and update this line.)*
+![Screenshot of Display Control](screenshot.png)
+
 
 ## Features
 
