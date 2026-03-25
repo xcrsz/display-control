@@ -1,0 +1,63 @@
+# Independent Commons License – Humanitarian Edition
+
+**Copyright (c) 2025, Vester Thacker**  
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining  
+a copy of this software and associated documentation files (the  
+“Software”), to use, copy, modify, merge, publish, distribute,  
+sublicense, and/or sell copies of the Software, subject to the  
+following conditions:
+
+## 1. Definitions
+
+**a) Prohibited Purpose** means:  
+1. Development, deployment, or operation of any weapon or weapon system.  
+2. Mass surveillance, tracking, or profiling of persons without explicit, informed consent.  
+3. Political campaigning, propaganda, or influence operations.  
+4. Any activity in violation of international criminal law, including war crimes, crimes against humanity, or genocide.  
+
+**b) Humanitarian Use** means activities conducted solely for:  
+- The immediate preservation of human life  
+- Provision of medical care  
+- Disaster relief  
+- Protection of the vulnerable  
+- Restoration of essential civilian infrastructure  
+All in accordance with international humanitarian law.
+
+## 2. Humanitarian Use Requirement
+
+The Software may not be used for any Prohibited Purpose unless the  
+use qualifies exclusively as Humanitarian Use.
+
+## 3. Attribution
+
+Redistributions of source code must retain the above copyright  
+notice, this list of conditions, and the following disclaimer.  
+Redistributions in binary form must reproduce the above copyright  
+notice, this list of conditions, and the following disclaimer in  
+the documentation and/or other materials provided with the  
+distribution.
+
+## 4. Endorsement
+
+Neither the name of the copyright holder nor the names of its  
+contributors may be used to endorse or promote products derived  
+from this Software without specific prior written permission.
+
+## 5. Termination
+
+Any use of the Software in violation of these conditions  
+automatically terminates the rights granted herein.
+
+---
+
+**DISCLAIMER:**  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,  
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF  
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND  
+NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR  
+CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,  
+WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,  
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER  
+DEALINGS IN THE SOFTWARE.
